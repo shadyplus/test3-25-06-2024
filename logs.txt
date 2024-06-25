@@ -1,0 +1,15 @@
+ 2024-06-08 08:49:28;154.121.97.116;;{"code":"invalid_arg","error":"Error ID:DE92B2AC-255A-11EF-A7EE-0620AA94BE26. fields: 'email' is required","result":""}
+ 2024-06-08 10:02:36;129.45.41.210;;{"code":"invalid_arg","error":"Error ID:163E7EA2-2565-11EF-B655-C651B3CD6A26. fields: 'email' is required","result":""}
+ 2024-06-11 19:36:11;154.121.85.206;abdelkadirkadi2000@gmail.com;{"error":"Error ID:B6289E90-2810-11EF-B896-C68F56D43701. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-06-12 01:36:35;105.235.130.238;ne.brahim64@gmail.com;{"error":"Error ID:0F112EC8-2843-11EF-8739-EE570F179F65. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-06-12 16:26:00;154.121.57.55;;{"code":"invalid_arg","error":"Error ID:4EF625A8-28BF-11EF-9671-6A1B00A309CE. fields: 'email' is required","result":""}
+ 2024-06-13 04:01:26;154.121.83.60;;{"code":"invalid_arg","error":"Error ID:76110D72-2920-11EF-97DA-02757112CD17. fields: 'email' is required","result":""}
+ 2024-06-14 12:19:29;154.121.83.60;خماية المختار;{"code":"invalid_arg","error":"Error ID:3423E58C-2A2F-11EF-B7B8-7A5ACEB03634. fields: This value 'خماية المختار' is not a valid email address.","result":""}
+ 2024-06-15 06:53:05;129.45.40.67;mimouniamine45@hotmail.com;{"error":"Error ID:C5366C02-2ACA-11EF-98DB-1E4D053A1418. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-06-15 08:10:20;41.220.149.4;sboukhalffa@gmail.com;{"error":"Error ID:8FD88B66-2AD5-11EF-98A9-1E4D053A1418. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-06-15 19:07:50;154.121.57.208;;{"code":"invalid_arg","error":"Error ID:6A2A17A2-2B31-11EF-84BA-AE3A7A05474B. fields: 'email' is required","result":""}
+ 2024-06-18 13:43:46;105.235.131.112;;{"code":"invalid_arg","error":"Error ID:A3E11A42-2D5F-11EF-931D-5EB18A37F424. fields: 'email' is required","result":""}
+ 2024-06-18 14:18:28;129.45.29.185;nboumaza.deal@gmail.com;{"error":"Error ID:7D054AD8-2D64-11EF-886B-5EB18A37F424. MG171013-01 [You exceeded subscribe API daily limit 0\/0]","code":"unspecified"}
+ 2024-06-20 00:58:25;154.121.109.242;;{"code":"invalid_arg","error":"Error ID:0DC9404C-2E87-11EF-BF07-623DE2D9FA66. fields: 'email' is required","result":""}
+ 2024-06-24 20:53:26;154.121.100.113;;{"code":"invalid_arg","error":"Error ID:A81A5F7C-3252-11EF-95E5-AE7F0D7F0A94. fields: 'email' is required","result":""}
+ 2024-06-24 23:21:58;105.99.177.230;;{"code":"invalid_arg","error":"Error ID:68623098-3267-11EF-B2FD-622F90CBFDA2. fields: 'email' is required","result":""}
